@@ -1,7 +1,7 @@
 # Git-oppimispäiväkirja
 
 **Kurssi:** Git-versionhallinta  
-**Tekijä:** Vilma Kristiina
+**Tekijä:** Vilma Savolainen
 
 Tämä repositorio sisältää kurssin kolme oppimispäiväkirjaa.
 
