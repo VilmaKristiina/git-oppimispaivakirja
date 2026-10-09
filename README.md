@@ -1,6 +1,7 @@
 # Git-oppimispäiväkirja
 
 **Kurssi:** Git-versionhallinta - SOF013AS2A-3003
+
 **Tekijä:** Vilma Savolainen
 
 Tämä repositorio sisältää kurssin kolme oppimispäiväkirjaa.
