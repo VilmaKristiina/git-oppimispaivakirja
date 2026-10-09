@@ -2,11 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
-Kirjoita tähän vastauksesi
+Githubin käyttäminen selaimessa ja git pull oli helppoa. Vaikeaa on haaroja alkaa olla monia, joka lisää sekavuutta. On paljon muistettavaa. Pitää tehdä rauhassa ja muistaa muutokset
 
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git push | Lähettää muutokset githbuiin |
+| git fetch | Hakee tehdyt muutokset githubista |
