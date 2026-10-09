@@ -2,11 +2,11 @@
 
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
-Kirjoita tähän vastauksesi
+Powershellin ja vscoden käyttö yhdessä ja niiden uudelleen opettelu oli hankalaa. 
 
 ## Osiossa käyttämäni Git-komennot
 
 | Komento | Kuvaus |
 | --------| ------ |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
-| kirjoita tähän komento | tähän lyhyt kuvaus, mitä komento tekee |
+| git status | Näyttää repon statuksen ja siihen tehdyt muutokset |
+| git commit -m "" | Tallentaa muutokset |
