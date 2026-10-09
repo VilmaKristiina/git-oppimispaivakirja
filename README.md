@@ -5,6 +5,8 @@
 
 Tämä repositorio sisältää kurssin kolme oppimispäiväkirjaa.
 
+Git-versionhallinta - SOF013AS2A-3003
+
 ## Oppimispäiväkirjat
 
 - [Paikallinen Git](paivakirja1.md)
